@@ -34,6 +34,6 @@ namespace SpaceInvaders
         {
             this.topLeft.Row += 2;
         }
-
+        .. 
     }
 }
