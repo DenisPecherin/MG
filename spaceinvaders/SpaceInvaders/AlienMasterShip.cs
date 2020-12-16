@@ -16,4 +16,8 @@ namespace SpaceInvaders
     }
 }
 
+<<<<<<< Updated upstream
   // Ахули нам     
+=======
+       fdsfsdfsdf
+>>>>>>> Stashed changes
