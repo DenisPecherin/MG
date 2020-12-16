@@ -20,4 +20,5 @@ namespace SpaceInvaders
   // Ахули нам     
 =======
        fdsfsdfsdf
+       fe":LJergf;LjKOLSE?fj;slaf;lasdejf;'lSDJ;flsj;lfs;l'DFJ/
 >>>>>>> Stashed changes
